@@ -46,3 +46,7 @@ Experimentarás con un sistema de tipos básico, extenderás una gramática y co
 - Ahora extienda más el sistema de tipos para validar al menos otros 3 conflictos de tipos.
 - **Video de YouTube no listado** (pero público) con los resultados de ejecutar los puntos anteriores y sus comentarios.
 - Repo de Github con todo su código.
+
+## 🎥 Video
+
+[https://youtu.be/8Fhip5lOzio](https://youtu.be/8Fhip5lOzio)
